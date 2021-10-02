@@ -12,5 +12,5 @@ Hello ZZD , Hello Git!
 Hello ZZD , Hello Git!
 Hello ZZD , Hello Git!
 Hello ZZD , Hello Git!
-Hello ZZD , Hello Git!
-Hello ZZD , Hello Git!	hot-fix test!
+Hello ZZD , Hello Git!	hot-fix test
+Hello ZZD , Hello Git!	
